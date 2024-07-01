@@ -18,7 +18,7 @@ setup(
         'lxml>=4.5.0',
         'requests>=2.0.0',
         'bs4==0.0.1',
-        'js2xml==0.3.1',
+        'js2xml==0.5.0',
         'pandas>=0.23.4'
     ],
     classifiers=[
